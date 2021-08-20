@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386570244494",
+    "firebase_url": "https://elab-server.firebaseio.com",
+    "project_id": "elab-server",
+    "storage_bucket": "elab-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386570244494:android:974c9ede65bd68aeb014df",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386570244494-9qemag0toq9506g0robe25j6kjngi1ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "8c61d46d9029c6bc74fd4aab795b5ba857f86a1f"
+          }
+        },
+        {
+          "client_id": "386570244494-t7ho7hn9f3r3g76dt27135krr8q3gafp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyp0UO3uPmHHJd0KTFwoX0hmGvaCI0c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386570244494-t7ho7hn9f3r3g76dt27135krr8q3gafp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
